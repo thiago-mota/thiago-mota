@@ -1,7 +1,6 @@
-<h1 align="center"> Olá! Eu sou o Thiago e fico muito feliz em encontrá-lo aqui! 😉 </h1>
+<h1 align="center"> Olá! Eu me chamo Thiago! 😉 </h1>
 
 - 🌱 Atualmente aprendendo React e ferramentas voltadas para o front-end
-- 😄 Pronome: Ele/Dele
 
   <div align="center">
     <a href="https://github.com/thiago-mota">
