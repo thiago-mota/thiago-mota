@@ -1,7 +1,7 @@
 ## Hi there! 😉
 I am a full stack web developer who is passionate about technology and believes in the potential it has to drive innovation and improve lives! 
 
-I am currently focused on gaining experience and honing my skills
+Currently focused on gaining experience and honing my skills
 - 🧪 I love writing tests. I'm currently diving deeper on **e2e tests with Cypress**;
 - 👔 Actively seeking new job opportunities in QA/web dev;
 
