@@ -46,10 +46,6 @@ These are some of the technologies I have worked with:
 You can reach me on the following platforms:
 <div>
    <a href="https://www.linkedin.com/in/thiagomota-dev/" target="_blank"><img align="center" alt="LinkedIn" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg">
-	   <a href="https://www.linkedin.com/in/thiagomota-dev/" target="_blank" rel="noopener noreferrer">
-  <img align="center" alt="LinkedIn" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg">
-</a>
-
   <!-- <a href="https://www.discordapp.com/users/fivell" target="_blank"><img align="center" alt="Discord" height="45" width="60" src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a69f118df70ad7828d4_icon_clyde_blurple_RGB.svg"> -->
 </div>
 <br>
