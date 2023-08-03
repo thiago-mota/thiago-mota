@@ -1,9 +1,9 @@
 ## Hi there! 😉
-I am a full stack web developer who is passionate about technology and believes in the potential it has to create good stuff! 
+I am a full stack web developer who is passionate about technology and believes in the potential it has to drive innovation and improve lives! 
 
-Right now I'm focusing on acquiring experience and developing new skills.
-- 🧪 I love making tests. I'm currently getting deeper on **e2e tests with Cypress**;
-- 👔 Looking for job opportunities;
+I am currently focused on gaining experience and honing my skills
+- 🧪 I love writing tests. I'm currently diving deeper on **e2e tests with Cypress**;
+- 👔 Actively seeking new job opportunities in QA/web dev;
 
 ### 📜Language and Tools
 These are some of the technologies I have worked with:
@@ -43,7 +43,7 @@ These are some of the technologies I have worked with:
     </div>
 
 ### 📫 Connect with me:
-You can reach me on the following places:
+You can reach me on the following platforms:
 <div>
    <a href="https://www.linkedin.com/in/thiagomota-dev/" target="_blank"><img align="center" alt="LinkedIn" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg">
   <!-- <a href="https://www.discordapp.com/users/fivell" target="_blank"><img align="center" alt="Discord" height="45" width="60" src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a69f118df70ad7828d4_icon_clyde_blurple_RGB.svg"> -->
